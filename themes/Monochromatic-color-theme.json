@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./monochromatic.tmTheme",
+	"colors": {
+		"editor.background": "#ffffff",
+		"editorCursor.foreground": "#000000",
+		"editor.foreground": "#000000",
+		"editorWhitespace.foreground": "#b4b4b5",
+		"editor.lineHighlightBackground": "#00000012",
+		"editor.selectionBackground": "#99999954"
+	},
+	"name": "Monochromatic"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "monochromatic",
+    "displayName": "Monochromatic",
+    "description": "Simple black on white theme",
+    "version": "0.0.1",
+    "publisher": "strmpnk",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monochromatic",
+                "uiTheme": "vs",
+                "path": "./themes/Monochromatic-color-theme.json"
+            }
+        ]
+    }
+}
